@@ -1,5 +1,5 @@
-let sesli = "aeiıoöuü";
-let sessiz = "bcçdfgğhjklmnpqrsştvwxyz";
+let sesli = "aeiou";
+let sessiz = "bcdfghjklmnpqrstvwxyz";
 
 let isim = prompt("İSİM GİR").toLowerCase();
 
