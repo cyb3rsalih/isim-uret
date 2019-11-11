@@ -1,10 +1,7 @@
 let sesli = "aeiıoöuü";
-let sessiz = "bcçdfghjklmnpqrsştvyz";
+let sessiz = "bcçdfgğhjklmnpqrsştvwxyz";
 
 let isim = prompt("İSİM GİR");
-
-sesliarr = sesli.split("");
-sessizarr = sessiz.split("");
 
 genesis = [];
 
