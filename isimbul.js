@@ -1,7 +1,7 @@
 let sesli = "aeiıoöuü";
 let sessiz = "bcçdfgğhjklmnpqrsştvwxyz";
 
-let isim = prompt("İSİM GİR");
+let isim = prompt("İSİM GİR").toLowerCase();
 
 genesis = [];
 
